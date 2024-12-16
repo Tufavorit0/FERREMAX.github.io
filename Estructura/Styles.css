@@ -27,7 +27,7 @@ body {
 }
 
 .header {
-    background-image: url(/Multimedia/fondo.jpg);
+    background-image: url("../Multimedia/fondo.jpg");
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
